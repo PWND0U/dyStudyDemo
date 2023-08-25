@@ -3,10 +3,10 @@ database:
   connection: mysql
   mysql:
     host: 127.0.0.1
-    dbName: danzi
+    dbName: douyin
     port: 3306
-    username: danzi
-    password: lianyi312304
+    username: douyin
+    password: douyin
     charset: utf8mb4
     # 连接池配置
     maxIdleConnections: 100
